@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(202, 187, 54);
+}
+
+hr {
+
+    border-style: dotted none none;
+    border-width: 20px;
+    border-color: rgb(248, 27, 27);
+    width: 10%
+}
+
+</body>
